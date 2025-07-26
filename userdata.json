@@ -4,7 +4,7 @@
         "key": "ZjcxZjVjMDk4MjY5ZDdmYQ==
 ",
         "expirydate": "31-1-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "device456",
